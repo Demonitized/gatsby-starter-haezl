@@ -45,7 +45,7 @@ for <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
 
     ```sh
     # create a new Gatsby site using the haezl starter
-    npx gatsby new my-blog https://github.com/haezl/gatsby-starter-haezl
+    npx gatsby new my-blog https://github.com/Demonitized/gatsby-starter-haezl
     ```
 
 1.  **Start developing.**
